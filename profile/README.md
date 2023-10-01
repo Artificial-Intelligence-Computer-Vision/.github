@@ -1,5 +1,5 @@
 # 🧙 Organization Website
-- https://artificial-intelligence-computer-vision.github.io/
+- https://artificial-intelligence-computer-vision.github.io
 
 # 🙋‍♀️ Information Organization
 - Public Api / Sdk / Packages / Library limited information on usability and installation will be on organization websites
@@ -34,9 +34,9 @@
 
 # 🍿 Syncs Organization 
 
-- https://github.com/Robotics-Sensors/
-- https://github.com/Application-UI-UX/
-- https://github.com/Algorithm-Model-Research/
+- https://github.com/Robotics-Sensors
+- https://github.com/Application-UI-UX
+- https://github.com/Algorithm-Model-Research
 
 <!--
 **Here are some ideas to get you started:**
