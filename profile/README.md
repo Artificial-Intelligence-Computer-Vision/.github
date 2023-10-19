@@ -1,5 +1,13 @@
+[![Website](https://img.shields.io/badge/Visit%20our-Website-0099cc?style=for-the-badge)](https://artificial-intelligence-computer-vision.github.io)
+[![Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/Yc72nd4w)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Artificial%20Intelligence%20Computer%20Vision-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Artificial-Intelligence-Computer-Vision)
+
+
 # 🧙 Organization Website
 - https://artificial-intelligence-computer-vision.github.io
+
+# 🌱 Discord Community
+- https://discord.gg/Yc72nd4w
 
 # 🙋‍♀️ Information Organization
 - Public Api / Sdk / Packages / Library limited information on usability and installation will be on organization websites
