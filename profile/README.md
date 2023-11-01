@@ -3,6 +3,10 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-Artificial%20Intelligence%20Computer%20Vision-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Artificial-Intelligence-Computer-Vision)
 
 
+# 📫 Director & Founder & Owner of ACR Organization
+- **Ronaldson Bellande**
+- **ronaldsonbellande@gmail.com**
+
 # 🧙 Organization Website
 - https://artificial-intelligence-computer-vision.github.io
 
