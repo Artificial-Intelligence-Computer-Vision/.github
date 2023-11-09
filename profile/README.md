@@ -34,18 +34,26 @@
 
 
 ### Machine Learning
+- 100% private contact Director director of organization
 
 ### Reinforcement Learning
+- 90% private contact Director director of organization
 
 ### Deep Reinforcement Learning
+- 100% private contact Director director of organization
 
 ### Human Activity Recognition
+- 100% private contact Director director of organization
 
 ### Speech Recognition
+- 100% private contact Director director of organization
 
 ### Computer Vision
+- 99% private contact Director director of organization
 
 ### Healthcare
+- 100% private contact Director director of organization
+
 
 ## 📈 Organization Stats: <a href="https://github.com/Artificial-Intelligence-Computer-Vision"> <img src="https://komarev.com/ghpvc/?username=Artificial-Intelligence-Computer-Vision&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
