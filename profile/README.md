@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/badge/Visit%20our-Website-0099cc?style=for-the-badge)](https://artificial-intelligence-computer-vision.github.io)
-[![Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/7JpUMsGKhY)
+[![Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/ecjdd7QQQV)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Artificial%20Intelligence%20Computer%20Vision-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Artificial-Intelligence-Computer-Vision)
 [![Sponsor](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-artificial-intelligence-computer-vision-research-innovation-center)
 
