@@ -8,13 +8,14 @@
 - **ronaldsonbellande@gmail.com**
 
 ## 🧙 Organization Website
-
 - [![Organization Website](https://img.shields.io/badge/Explore%20Our-Website-0099cc?style=for-the-badge)](https://artificial-intelligence-computer-vision.github.io)
 
 ## 🌱 Join Our Discord Community
-
 - [![Discord Community](https://img.shields.io/badge/Join%20Our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/ecjdd7QQQV)
 
+# ✨ Team/Community Contribute
+- [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX/artificial_intelligence_computer_vision_contribute)
+- Comprehensive instructions are available within the repository, guiding you on how to identify the project or research assignment you wish to contribute to. These instructions outline the steps for effective and meaningful contributions.
 
 # 🙋‍♀️ Information Organization
 - Public API / SDK / Packages / Library limited information on usability and installation will be on organization websites.
@@ -66,4 +67,6 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 
 - [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors)  
 - [![Application UI/UX](https://img.shields.io/badge/Application%20UI%2FUX-Explore-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX)  
-- [![Algorithm Model Research](https://img.shields.io/badge/Algorithm%20Model%20Research-Explore-0099cc?style=for-the-badge)](https://github.com/Algorithm-Model-Research)  
+- [![Algorithm Model Research](https://img.shields.io/badge/Algorithm%20Model%20Research-Explore-0099cc?style=for-the-badge)](https://github.com/Algorithm-Model-Research)
+
+Feel free to immerse yourself in the world of innovation and discovery with Artificial Intelligence & Computer-Vision Research Innovations Center! 🚀✨
