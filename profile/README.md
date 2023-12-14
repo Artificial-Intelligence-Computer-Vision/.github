@@ -5,9 +5,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UCUQNH6YJEHa7ln--PdTm11g)
 
 
-# 📫 Director & Founder & Owner of ACR Organization
-- **Ronaldson Bellande**
-- **ronaldsonbellande@gmail.com**
+# 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BAI&CVRI Center Organization
+- 📧 **Email:** ronaldsonbellande@gmail.com
 
 ## 🧙 Organization Website
 - [![Organization Website](https://img.shields.io/badge/Explore%20Our-Website-0099cc?style=for-the-badge)](https://artificial-intelligence-computer-vision.github.io)
