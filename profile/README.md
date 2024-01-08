@@ -1,6 +1,16 @@
-![Organization Logo](https://github.com/Artificial-Intelligence-Computer-Vision.png)
+<table style="border-collapse: collapse;"><tr><td valign="middle" width="35%" style="text-align: center; vertical-align: middle;">
+<!-- starts -->
 
-# Welcome to the Bellande Artificial Intelligence & Computer Vision Research Innovations Center 🚀🤖
+<h1 style="margin: 0; padding: 0;">Welcome to the Bellande Artificial Intelligence & Computer Vision Research Innovations Center 🚀🤖</h1>
+
+<!-- ends -->
+</td><td valign="top" width="65%">
+<!-- starts -->
+  
+<img src="https://github.com/Artificial-Intelligence-Computer-Vision.png" alt="Organization Logo" style="width: 100%;">
+  
+<!-- ends -->
+</td></tr></table>
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Artificial%20Intelligence%20Computer%20Vision-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Artificial-Intelligence-Computer-Vision)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-artificial-intelligence-computer-vision-research-innovation-center)
