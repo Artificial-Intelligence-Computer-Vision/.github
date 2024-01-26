@@ -30,7 +30,7 @@
 - [![Discord Community](https://img.shields.io/badge/Join%20Our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/ecjdd7QQQV)
 
 # ✨ Team/Community Contribute
-- [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision/artificial_intelligence_computer_vision_contribute)
+- [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision/bellande_artificial_intelligence_computer_vision_innovations_contribute)
 - Comprehensive instructions are available within the repository, guiding you on how to identify the project or research assignment you wish to contribute to. These instructions outline the steps for effective and meaningful contributions.
 
 # 🙋‍♀️ Information Organization
