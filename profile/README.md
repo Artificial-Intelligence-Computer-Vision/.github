@@ -34,7 +34,7 @@
 - Comprehensive instructions are available within the repository, guiding you on how to identify the project or research assignment you wish to contribute to. These instructions outline the steps for effective and meaningful contributions.
 
 ## 🎓 Organization Classroom
-- [![Organization Classroom](https://img.shields.io/badge/Organization-Classroom-00cc66?style=for-the-badge)](https://classroom.github.com/classrooms/94992622-bellande-artifitial-intelligence-computer-vision-research-innovations-center-classroom)
+- [![Organization Classroom](https://img.shields.io/badge/Organization-Classroom-00cc66?style=for-the-badge)](https://classroom.github.com/classrooms/95171927-bellande-artificial-intelligence-computer-vision-research-inovations-center-classroom)
 - Individuals who are not affiliated as clients, companies, organizations involved in procurement, integral members of the organizational team or contributor contributing to its goals daily are cordially invited to participate in the organization's educational initiatives on how to contribute to the organization more effectively.
 
 # 🙋‍♀️ Information Organization
