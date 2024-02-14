@@ -33,6 +33,10 @@
 - [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision/bellande_artificial_intelligence_computer_vision_innovations_center_contribute)
 - Comprehensive instructions are available within the repository, guiding you on how to identify the project or research assignment you wish to contribute to. These instructions outline the steps for effective and meaningful contributions.
 
+## 🎓 Organization Classroom
+- [![Organization Classroom](https://img.shields.io/badge/Organization-Classroom-00cc66?style=for-the-badge)](https://classroom.github.com/classrooms/94992622-bellande-artifitial-intelligence-computer-vision-research-innovations-center-classroom)
+- Individuals who are not affiliated as clients, companies, organizations involved in procurement, integral members of the organizational team or contributor contributing to its goals daily are cordially invited to participate in the organization's educational initiatives on how to contribute to the organization more effectively.
+
 # 🙋‍♀️ Information Organization
 - Public API / SDK / Packages / Library limited information on usability and installation will be on organization websites.
 - Private Application / Architecture / Automation / API / SDK / Packages / Library / Designs information on usability, installation will be on the company website.
