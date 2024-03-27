@@ -26,6 +26,9 @@
 ## 🧙 Organization Website
 - [![Organization Website](https://img.shields.io/badge/Explore%20Our-Website-0099cc?style=for-the-badge)](https://artificial-intelligence-computer-vision.github.io)
 
+## 📦 AI/ML Models
+[![AI/ML Models](https://img.shields.io/badge/Models-Artificial%20Intelligence%20Computer%20Vision%20Models-green?style=for-the-badge&logo=github)](https://huggingface.co/Artificial-Intelligence-Computer-Vision)
+
 ## 🌱 Join Our Discord Community
 - [![Discord Community](https://img.shields.io/badge/Join%20Our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/ecjdd7QQQV)
 
