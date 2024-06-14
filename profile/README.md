@@ -18,7 +18,8 @@
 
 
 # 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BAI&CVRI Center Organization
-- 📧 **Email:** ronaldsonbellande@gmail.com
+- 📧 **Personal Email:** ronaldsonbellande@gmail.com
+- 📧 **Organization Email**: ronaldsonbellande@bellande-artificial-intelligence-computer-vision-research-innovation-center.org
 
 # 🧰 Insights: Showcase of Bellande Artificial Intelligence & Computer Vision Research Innovation Video
   [![Watch the video](https://img.youtube.com/vi/XnCvPYVqDpE/0.jpg)](https://www.youtube.com/watch?v=XnCvPYVqDpE)
