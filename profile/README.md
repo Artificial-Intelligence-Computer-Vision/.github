@@ -51,10 +51,12 @@
 # 🌈 Research
 - Research related to this organization will be in research papers published by Ronaldson Bellande.
 - Non-published research will showcase demos on the company website.
+
+# 💼 Research
+- Researchers from all countries, companies, and laboratories, are encouraged to collaborate and utilize our resources to advance science, technology, engineering, and mathematics. We welcome your insights, expertise, and contributions!
 --------------------------------------------------------------------------------------------------------
 
 ## ⚡ Research Domains
-
 Explore our ongoing research domains, where we delve into cutting-edge advancements and innovation:
 
 ### 🧠 Machine Learning
