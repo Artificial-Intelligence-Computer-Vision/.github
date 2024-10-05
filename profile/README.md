@@ -95,7 +95,7 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 
 - [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors)  
 - [![Application UI/UX](https://img.shields.io/badge/Application%20UI%2FUX-Explore-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX)  
-- [![Algorithm Model Research](https://img.shields.io/badge/Algorithm%20Model%20Research-Explore-0099cc?style=for-the-badge)](https://github.com/Algorithm-Model-Research)
+- [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://github.com/Architecture-Mechanism)
 
 Feel free to immerse yourself in the world of innovation and discovery with Artificial Intelligence & Computer-Vision Research Innovations Center! 🚀✨
 
