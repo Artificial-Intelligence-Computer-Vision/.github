@@ -100,6 +100,6 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 - [![Application UI/UX](https://img.shields.io/badge/Application%20UI%2FUX-Explore-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX)  
 - [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://github.com/Architecture-Mechanism)
 
-Feel free to immerse yourself in the world of innovation and discovery with Artificial Intelligence & Computer-Vision Research Innovations Center! 🚀✨
+Feel free to immerse yourself in the world of innovation and discovery with Artificial Intelligence & Computer Vision Research Innovations Center! 🚀✨
 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/organizations_company.png" alt="Bellande Organizations & Company" width="1000"/>
