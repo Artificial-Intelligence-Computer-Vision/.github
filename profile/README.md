@@ -21,6 +21,7 @@
 ## Bellande Artificial Intelligence/Computer Vision Research Innovation Center Licensing
 - https://github.com/Artificial-Intelligence-Computer-Vision/LICENSING
 - https://github.com/Artificial-Intelligence-Computer-Vision/.github
+- https://github.com/Artificial-Intelligence-Computer-Vision/CODE_OF_CONDUCT
 
 # 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BAI&CVRI Center Organization
 - 📧 **Personal Email:** ronaldsonbellande@gmail.com
