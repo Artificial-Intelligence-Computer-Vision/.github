@@ -14,6 +14,13 @@
 <!-- ends -->
 </td></tr></table>
 
+# BAICVRI Git Organization (Bellande Technologies Git)
+[![BAICVRI Git Organization Website](https://img.shields.io/badge/BAICVRI%20Git%20Organization%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BAICVRI)
+
+# BAICVRI Github Organization
+[![BAICVRI Github Organization Website](https://img.shields.io/badge/BAICVRI%20Github%20Organization%20Website-blue?style=for-the-badge&logo=github)](https://github.com/Artificial-Intelligence-Computer-Vision)
+
+## Explore Our Platforms
 [![Sponsor](https://img.shields.io/badge/Sponsor-Artificial%20Intelligence%20Computer%20Vision-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Artificial-Intelligence-Computer-Vision)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-artificial-intelligence-computer-vision-research-innovation-center)
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UCUQNH6YJEHa7ln--PdTm11g)
