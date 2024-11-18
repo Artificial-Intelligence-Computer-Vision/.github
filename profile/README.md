@@ -107,8 +107,12 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 
 - [![Profile Views](https://komarev.com/ghpvc/?username=Artificial-Intelligence-Computer-Vision&label=Profile+Views&color=2e8b57&style=flat)](https://github.com/Artificial-Intelligence-Computer-Vision)
 
-# 🍿 Explore Our Synced Organizations 
+# 🍿 (Bellande Technologies Git) Explore Our Synced Organizations 
+- [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://git.bellande-technologies.com/BRSRI)
+- [![Application Interoperability Xenogen](https://img.shields.io/badge/Application%20Interoperability%20Xenogen-Explore-0099cc?style=for-the-badge)](https://git.bellande-technologies.com/BAIXRI)  
+- [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://git.bellande-technologies.com/BAMRI)
 
+# 🍿 (Github) Explore Our Synced Organizations 
 - [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors)  
 - [![Application Interoperability Xenogen](https://img.shields.io/badge/Application%20Interoperability%20Xenogen-Explore-0099cc?style=for-the-badge)](https://github.com/Application-Interoperability-Xenogen)  
 - [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://github.com/Architecture-Mechanism)
