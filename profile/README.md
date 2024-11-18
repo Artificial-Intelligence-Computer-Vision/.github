@@ -18,7 +18,12 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-artificial-intelligence-computer-vision-research-innovation-center)
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UCUQNH6YJEHa7ln--PdTm11g)
 
-## Bellande Artificial Intelligence/Computer Vision Research Innovation Center Licensing
+## (Bellande Technologies Git) Bellande Artificial Intelligence/Computer Vision Research Innovation Center Licensing & Code of Conduct
+- https://git.bellande-technologies.com/BAICVRI/LICENSING
+- https://git.bellande-technologies.com/BAICVRI/.profile
+- https://git.bellande-technologies.com/BAICVRI/CODE_OF_CONDUCT
+
+## (Github) Bellande Artificial Intelligence/Computer Vision Research Innovation Center Licensing & Code of Conduct
 - https://github.com/Artificial-Intelligence-Computer-Vision/LICENSING
 - https://github.com/Artificial-Intelligence-Computer-Vision/.github
 - https://github.com/Artificial-Intelligence-Computer-Vision/CODE_OF_CONDUCT
