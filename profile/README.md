@@ -3,7 +3,7 @@
 <table style="border-collapse: collapse;"><tr><td valign="middle" width="35%" style="text-align: center; vertical-align: middle;">
 <!-- starts -->
 
-<h1 style="margin: 0; padding: 0;">Welcome to the Bellande Artificial Intelligence & Computer Vision Research Innovations Center 🚀🤖</h1>
+<h1 style="margin: 0; padding: 0;">Welcome to the Bellande Artificial Intelligence Computer Vision Research Innovations Center 🚀🤖</h1>
 
 <!-- ends -->
 </td><td valign="top" width="65%">
@@ -37,7 +37,7 @@
 - Certifications
 - Legal Documentation
 
-## (Bellande Technologies Git) Bellande Artificial Intelligence/Computer Vision Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
+## (Bellande Technologies Git) Bellande Artificial Intelligence Computer Vision Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
 - https://git.bellande-technologies.com/BAICVRI/COPYRIGHT
 - https://git.bellande-technologies.com/BAICVRI/TRADEMARK
 - https://git.bellande-technologies.com/BAICVRI/CERTIFICATION
@@ -45,13 +45,29 @@
 - https://git.bellande-technologies.com/BAICVRI/.profile
 - https://git.bellande-technologies.com/BAICVRI/CODE_OF_CONDUCT
 
-## (Github) Bellande Artificial Intelligence/Computer Vision Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
+## (Github) Bellande Artificial Intelligence Computer Vision Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
 - https://github.com/Artificial-Intelligence-Computer-Vision/COPYRIGHT
 - https://github.com/Artificial-Intelligence-Computer-Vision/TRADEMARK
 - https://github.com/Artificial-Intelligence-Computer-Vision/CERTIFICATION
 - https://github.com/Artificial-Intelligence-Computer-Vision/LICENSING
 - https://github.com/Artificial-Intelligence-Computer-Vision/.github
 - https://github.com/Artificial-Intelligence-Computer-Vision/CODE_OF_CONDUCT
+
+## (Gitlab) Bellande Artificial Intelligence Computer Vision Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
+- https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Innovations-Center/COPYRIGHT
+- https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Innovations-Center/TRADEMARK
+- https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Innovations-Center/CERTIFICATION
+- https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Innovations-Center/LICENSING
+- https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Innovations-Center/.gitlab-profile
+- https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Innovations-Center/CODE_OF_CONDUCT
+
+## (Bitbucket) Bellande Artificial Intelligence Computer Vision Research Innovation Center Copyright, Trademark, Certification, Licensing, Code of Conduct
+- https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision/COPYRIGHT
+- https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision/TRADEMARK
+- https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision/CERTIFICATION
+- https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision/LICENSING
+- https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision/.profile
+- https://bitbucket.org/Bellande-Artificial-Intelligence-Computer-Vision/CODE_OF_CONDUCT
 
 # 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BAI&CVRI Center Organization
 - 📧 **Personal Email:** ronaldsonbellande@gmail.com
@@ -135,6 +151,17 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 - [![Application Interoperability Xenogen](https://img.shields.io/badge/Application%20Interoperability%20Xenogen-Explore-0099cc?style=for-the-badge)](https://github.com/Application-Interoperability-Xenogen)  
 - [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://github.com/Architecture-Mechanism)
 
-Feel free to immerse yourself in the world of innovation and discovery with Artificial Intelligence & Computer Vision Research Innovations Center! 🚀✨
+# 🍿 (Gitlab) Explore Our Synced Organizations 
+- [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center)  
+- [![Application Interoperability Xenogen](https://img.shields.io/badge/Application%20Interoperability%20Xenogen-Explore-0099cc?style=for-the-badge)](https://gitlab.com/Bellande-Application-Interoperability-Xenogen-Research-Innovation-Center)  
+- [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation-Center)
+
+# 🍿 (Bitbucket) Explore Our Synced Organizations 
+- [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://bitbucket.org/Bellande-Robotics-Sensors)  
+- [![Application Interoperability Xenogen](https://img.shields.io/badge/Application%20Interoperability%20Xenogen-Explore-0099cc?style=for-the-badge)](https://bitbucket.org/Bellande-Application-Interoperability-Xenogen)  
+- [![Architecture Mechanism Research](https://img.shields.io/badge/Architecture%20Mechanism-Explore-0099cc?style=for-the-badge)](https://bitbucket.org/Bellande-Architecture-Mechanism)
+
+
+Feel free to immerse yourself in the world of innovation and discovery with Artificial Intelligence Computer Vision Research Innovations Center! 🚀✨
 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/organizations_company.png" alt="Bellande Organizations & Company" width="1000"/>
